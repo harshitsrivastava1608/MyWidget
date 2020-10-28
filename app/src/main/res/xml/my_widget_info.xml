@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<appwidget-provider xmlns:android="http://schemas.android.com/apk/res/android"
+    android:initialLayout="@layout/wid_layout"
+    android:minWidth="210dp"
+    android:minHeight="80dp"
+    android:minResizeWidth="80dp"
+    android:resizeMode="vertical|horizontal"
+    android:updatePeriodMillis="3600000"
+    android:previewImage="@drawable/holo"
+    android:widgetCategory="home_screen"
+    >
+</appwidget-provider>
